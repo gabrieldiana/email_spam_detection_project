@@ -1,4 +1,5 @@
 #install.packages
+#not the full lists, depending on your pre-installed packages, add more
 install.packages('caTools')
 
 #Load the required packages
